@@ -33,3 +33,14 @@ E:\PhoenixHeadTracker\PhoenixHeadTracker\obj\x64\Debug\PhoenixHeadTracker.csproj
 E:\PhoenixHeadTracker\PhoenixHeadTracker\obj\x64\Debug\PhoenixHeadTracker.csproj.CoreCompileInputs.cache
 E:\PhoenixHeadTracker\PhoenixHeadTracker\obj\x64\Debug\PhoenixHeadTracker.exe
 E:\PhoenixHeadTracker\PhoenixHeadTracker\obj\x64\Debug\PhoenixHeadTracker.pdb
+C:\Users\Shadow\Documents\GitHub\PhoenixHeadTracker\PhoenixHeadTracker\bin\x64\Debug\PhoenixHeadTracker.exe.config
+C:\Users\Shadow\Documents\GitHub\PhoenixHeadTracker\PhoenixHeadTracker\bin\x64\Debug\PhoenixHeadTracker.exe
+C:\Users\Shadow\Documents\GitHub\PhoenixHeadTracker\PhoenixHeadTracker\bin\x64\Debug\PhoenixHeadTracker.pdb
+C:\Users\Shadow\Documents\GitHub\PhoenixHeadTracker\PhoenixHeadTracker\obj\x64\Debug\PhoenixHeadTracker.csproj.AssemblyReference.cache
+C:\Users\Shadow\Documents\GitHub\PhoenixHeadTracker\PhoenixHeadTracker\obj\x64\Debug\PhoenixHeadTracker.g.resources
+C:\Users\Shadow\Documents\GitHub\PhoenixHeadTracker\PhoenixHeadTracker\obj\x64\Debug\PhoenixHeadTracker.Form1.resources
+C:\Users\Shadow\Documents\GitHub\PhoenixHeadTracker\PhoenixHeadTracker\obj\x64\Debug\PhoenixHeadTracker.Properties.Resources.resources
+C:\Users\Shadow\Documents\GitHub\PhoenixHeadTracker\PhoenixHeadTracker\obj\x64\Debug\PhoenixHeadTracker.csproj.GenerateResource.cache
+C:\Users\Shadow\Documents\GitHub\PhoenixHeadTracker\PhoenixHeadTracker\obj\x64\Debug\PhoenixHeadTracker.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Documents\GitHub\PhoenixHeadTracker\PhoenixHeadTracker\obj\x64\Debug\PhoenixHeadTracker.exe
+C:\Users\Shadow\Documents\GitHub\PhoenixHeadTracker\PhoenixHeadTracker\obj\x64\Debug\PhoenixHeadTracker.pdb
